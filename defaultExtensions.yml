@@ -1,0 +1,5 @@
+name: Default Extensions
+description: Baseline extensions for all developers
+extensions:
+  - id: msospo.1es-oss-assistant
+  - id: mai-engineeringsystems.mai-ai-telemetry
