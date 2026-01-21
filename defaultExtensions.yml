@@ -2,7 +2,7 @@ schemaVersion: 1
 name: Default Extensions
 description: Baseline extensions for all developers
 extensions:
-  - id: msospo.1es-oss-assistant
+  - id: eschat.es-chat
     required: true
   - id: mai-engineeringsystems.mai-ai-telemetry
     required: true
