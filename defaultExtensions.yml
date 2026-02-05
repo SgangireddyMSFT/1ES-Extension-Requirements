@@ -4,5 +4,3 @@ description: Baseline extensions for all developers
 extensions:
   - id: eschat.es-chat
     required: true
-  - id: mai-engineeringsystems.mai-ai-telemetry
-    required: true
